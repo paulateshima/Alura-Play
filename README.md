@@ -27,4 +27,4 @@ Este Projeto está sob a licença MIT.
 
 ## Acesso ao Projeto:
 
-Você pode acessar este Projeto 👉 [aqui](https://aluraplus-chi-swart.vercel.app/)
+Você pode acessar este Projeto 👉 [aqui](https://alura-play-murex.vercel.app/)
